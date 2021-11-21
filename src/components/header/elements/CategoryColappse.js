@@ -30,7 +30,7 @@ function CategoryColappse({ active }) {
         expandIconPosition="right"
       >
         <Panel
-          header="All departments"
+          header="All Category"
           key="1"
           extra={<i className="far fa-bars" />}
         >

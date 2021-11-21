@@ -71,7 +71,7 @@ function HeroSliderOne({ data }) {
                         {item.subTitle}
                       </h5>
                       <h1 data-delay="0.2" data-animation="animate__fadeInDown">
-                        {item.title}
+                        Buy Fresh Vegetable Today
                       </h1>
                       <h3 data-delay="0.4" data-animation="animate__fadeInDown">
                         {formatCurrency(item.price.main)}

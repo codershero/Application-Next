@@ -13,7 +13,7 @@ function DowTwo({ countdownLast }) {
         <Row align="middle" justify="space-between">
           <Col sm={24} lg={12}>
             <div className="dow-two-content">
-              <SectionTitle title="Deal Of The Week" hideDecoration />
+              <SectionTitle title="Fresh food of the week" hideDecoration />
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elitt
                 incididunt ut labore

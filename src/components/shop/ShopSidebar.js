@@ -72,7 +72,7 @@ function ShopSidebar({ showShortcut, style }) {
         <ul>
           <li className={classNames({ active: category === "" })}>
             <a onClick={(e) => onChooseCategory(e, "")} href="#">
-              All departments
+              All Category
             </a>
           </li>
           {categories.map((item, index) => (

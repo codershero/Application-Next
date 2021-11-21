@@ -56,7 +56,7 @@ function BlogSidebar({ recentPostsData }) {
               onClick={(e) => onChooseCategory(e, "")}
               href={process.env.PUBLIC_URL + "#"}
             >
-              All departments
+              All Category
             </a>
           </li>
           {data.categories.map((item, index) => (

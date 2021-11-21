@@ -61,7 +61,7 @@ export default function Home() {
             })
           }
           headerCategories={categories.slice(0, 5).map((item) => item.name)}
-          headerTitle="Deal of the week"
+          headerTitle="Fresh food of the week"
         />
       </Container>
       <IntroductionOne data={introductionOneData.one} />

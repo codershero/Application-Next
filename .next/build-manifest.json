@@ -35,11 +35,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/homepages/homepage2.js"
-    ],
-    "/shop/cart": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/shop/cart.js"
     ]
   },
   "ampFirstPages": []

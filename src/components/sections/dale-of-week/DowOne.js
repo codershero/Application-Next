@@ -29,7 +29,7 @@ function DowOne({ data, countdownLast }) {
   return (
     <div className="dow-one">
       <Container>
-        <SectionTitle title="Deal Of The Week" className="-center" />
+        <SectionTitle title="Fresh food of the week" className="-center" />
         <div className="dow-one-content">
           <Row align="center" gutter={15}>
             <Col md={12} lg={8}>
